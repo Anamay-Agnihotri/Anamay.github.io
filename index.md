@@ -31,7 +31,7 @@
 
 <header class="row text-center header">
    <img src="img/headshot.jpg" alt="Author Image" class="img-circle text-center headshot"> 
-  <h1 class="author">Sreyas Mohan</h1>
+  <h1 class="author">Anamay Agnihotri</h1>
 </header>
 
 
@@ -43,27 +43,6 @@
   <h4 class="description">New York University | IIT Madras</h4>
   
 </section>
-
-
-<section id="social-pane" class="row text-center social">
-  
-  
-  <a href="https://plus.google.com/sreyasmohaniitm/about"><i class="fa fa-google-plus-official" aria-hidden="true"></i></a>
-  
-  
-  <a href="https://facebook.com/coolsreyas"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
-  
-  
-  
-  
-  <a href="https://linkedin.com/in/sreyas-mohan-b82a3594"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-  
-  
-  
-  <a href="mailto:ee13b124@ee.iitm.ac.in"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
-  
-</section>
-
 
 <section id="main-menu-pane" class="row text-center main-menu">
   
