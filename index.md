@@ -1,11 +1,13 @@
 
-B.A. Data Analytics
+```markdown
+## <center>B.A. Data Analytics</center>
 
-(Comp Sci. & Economics minor) [GPA 3.6]
+### <center>(Comp Sci. & Economics minor) [GPA 3.6]</center>
 
 #### [About me](about.md)
 
 #### [CV](Resume_Anamay.pdf)(last updated December, 2017)
+```
 
 Interested in machine learning and AI
 
