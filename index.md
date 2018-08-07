@@ -1,7 +1,7 @@
 ## Anamay Agnihotri
 ### B.A. Data Analytics (Comp Sci. & Economics) [GPA 3.6]
 
-You can use the [About ya boi](https://github.com/Anamay-Agnihotri/Anamay.github.io/read/master/about.md) to maintain and preview the content for your website in Markdown files.
+You can use the [About ya boi](about.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
