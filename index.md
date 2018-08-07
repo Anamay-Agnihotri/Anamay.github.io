@@ -3,6 +3,8 @@
 
 You can use the [About ya boi](about.md) to maintain and preview the content for your website in Markdown files.
 
+Let's add my resume bish... [Intro.pdf](Resume_Anamay.pdf)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
