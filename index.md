@@ -10,25 +10,11 @@
 
 
 
-<base href="https://sreyasmohan.github.io">
+<base href="https://anamay-agnihotri.github.io">
 
-<title>Sreyas Mohan</title>
+<title>Anamay Agnihotri</title>
 
 <meta name="generator" content="Hugo 0.21" />
-
-
-  <link href="Page%28%22Sreyas%20Mohan%22%29" rel="alternate" type="application/rss+xml" title="Sreyas Mohan" />
-  <link href="Page%28%22Sreyas%20Mohan%22%29" rel="feed" type="application/rss+xml" title="Sreyas Mohan" />
-
-
-
-
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400|Roboto+Slab:400,700|Roboto:300,300i,400,400i,500,500i,700,700i">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://sreyasmohan.github.io/css/main.css">
-
-
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -101,21 +87,6 @@
 
 </div>
 
-
-
-
-
-
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'XYZ', 'auto');
-ga('send', 'pageview');
-</script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="js/main.js"></script>
 </body>
 </html>
 
