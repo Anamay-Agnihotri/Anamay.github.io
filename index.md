@@ -1,5 +1,7 @@
-### B.A. Data Analytics \\
-#### (Comp Sci. & Economics minor) [GPA 3.6]
+
+B.A. Data Analytics
+
+(Comp Sci. & Economics minor) [GPA 3.6]
 
 #### [About me](about.md)
 
