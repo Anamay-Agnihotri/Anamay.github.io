@@ -2,7 +2,7 @@
 name: Anamay Agnihotri
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Keeping track of life!
+description:
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Anamay Agnihotri
@@ -12,7 +12,7 @@ author_email: agniho_a1@denison.edu
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
-#category_dir: /
+category_dir: /
 
 # Uncomment if you are planning to run the blog in a subdirectory
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
