@@ -1,11 +1,10 @@
-## Anamay Agnihotri
-### B.A. Data Analytics (Comp Sci. & Economics) [GPA 3.6]
+### B.A. Data Analytics (Comp Sci. & Economics minor) [GPA 3.6]
 
-You can use the [About ya boi](about.md) to maintain and preview the content for your website in Markdown files.
+#### [About me](about.md)
 
-Let's add my resume bish... [Intro.pdf](Resume_Anamay.pdf)
+#### CV (last updated December, 2017)[Anamay_CV.pdf](Resume_Anamay.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Interested in machine learning and AI
 
 ### Markdown
 
