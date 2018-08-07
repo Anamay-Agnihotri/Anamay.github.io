@@ -1,71 +1,46 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
+# Anamay Agnihotri
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+```markdown
+## <center>B.A. Data Analytics</center>
 
+### <center>(Comp Sci. & Economics minor) [GPA 3.6]</center>
 
+#### [About me](about.md)
 
+#### [CV](Resume_Anamay.pdf)(last updated December, 2017)
+```
 
-<base href="https://anamay-agnihotri.github.io">
+Interested in machine learning and AI
 
-<title>Anamay Agnihotri</title>
+### Markdown
 
-<meta name="generator" content="Hugo 0.21" />
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+```markdown
+Syntax highlighted code block
 
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-<link rel="manifest" href="/manifest.json">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="theme-color" content="#ffffff">
+# Header 1
+## Header 2
+### Header 3
 
-</head>
-<body lang="en-US">
-<div class="container">
+- Bulleted
+- List
 
+1. Numbered
+2. List
 
-<header class="row text-center header">
-   <img src="img/headshot.jpg" alt="Author Image" class="img-circle text-center headshot"> 
-  <h1 class="author">Anamay Agnihotri</h1>
-</header>
+**Bold** and _Italic_ and `Code` text
 
+[Link](url) and ![Image](src)
+```
+#### To cracking open a cold one with the boys.
 
-<section id="info-pane" class="row text-center info">
-  
-  <h3 class="intro">Machine Learning and Neuroscience Enthusiast</h3>
-  
-  
-  <h4 class="description">New York University | IIT Madras</h4>
-  
-</section>
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<section id="main-menu-pane" class="row text-center main-menu">
-  
-  <h4><a class="menu-item" href="/about/">about me</a></h4>
-  
-  <h4><a class="menu-item" href="/research/">research</a></h4>
-  
-  <h4><a class="menu-item" href="/blog/">blog</a></h4>
-  
-</section>
+### Jekyll Themes
 
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anamay-Agnihotri/Anamay.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### Support or Contact
 
-<footer class="row text-center footer">
-  <hr />
-  
-  <h6 class="text-center copyright">© 2017. Sreyas Mohan. <a href="http://creativecommons.org/licenses/by/3.0/">Some Rights Reserved</a>.</h6>
-  
-  
-</footer>
-
-</div>
-
-</body>
-</html>
-
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
