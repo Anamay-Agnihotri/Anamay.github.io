@@ -2,7 +2,7 @@
 
 #### [About me](about.md)
 
-#### CV (last updated December, 2017)[Anamay_CV.pdf](Resume_Anamay.pdf)
+#### [CV](Resume_Anamay.pdf)(last updated December, 2017)
 
 Interested in machine learning and AI
 
