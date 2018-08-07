@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Anamay Agnihotri
+### B.A. Data Analytics (Comp Sci. & Economics) [GPA 3.6]
 
 You can use the [editor on GitHub](https://github.com/Anamay-Agnihotri/Anamay.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
